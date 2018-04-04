@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1010985369574",
+    "firebase_url": "https://nishida-miimo.firebaseio.com",
+    "project_id": "nishida-miimo",
+    "storage_bucket": "nishida-miimo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010985369574:android:a7ade4bb193b289e",
+        "android_client_info": {
+          "package_name": "com.example.nazenani.fcmkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010985369574-0u2a4tld72r3vt0lkuujf2cu4rd9bilb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7QfgfO87Q0VbsW2fXz68IKcrrwDBm_8Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
